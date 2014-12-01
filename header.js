@@ -4,7 +4,7 @@
  * MIT License (http://jsflux.googlecode.com/svn/trunk/mit-license.txt)
  */
 
-var flux = {};
+var flux = Object.create();
 
 (function (window, undefined) {
 
